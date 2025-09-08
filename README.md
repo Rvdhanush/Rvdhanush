@@ -1,8 +1,10 @@
 # Hi, I'm Dhanush 👋
 
-I'm a **Machine Learning Engineer** from **Coimbatore, India**, passionate about using AI and data-driven technologies to solve challenging problems and create meaningful impact. Currently interning at **Schnell Energy**, where I work on developing intelligent solutions that enhance decision-making and optimize processes.
+I'm a **Machine Learning Engineer** from **Coimbatore, India**, passionate about using AI and data-driven technologies to solve challenging problems and create meaningful impact. I recently completed my internship at **Schnell Energy**, where I contributed to developing intelligent solutions that enhance decision-making and optimize processes.
 
-🔭 I’m working on:
+🎓 I’m a student at **Coimbatore Institute of Technology, Coimbatore**, where I’m deepening my knowledge in AI, machine learning, and advanced analytics.
+
+🔭 I work on:
 - Machine Learning & Deep Learning models using Python, TensorFlow, and PyTorch
 - Data analysis, feature engineering, and algorithm optimization
 - Building scalable solutions for real-world applications
